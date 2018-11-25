@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lost In Translation</string>
+    <string name="upload_an_image">Tap to Click or Upload Photo</string>
+    <string name="camera">Camera</string>
+</resources>
