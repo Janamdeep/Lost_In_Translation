@@ -13,4 +13,4 @@
 - [tess-two](https://github.com/rmtheis/tess-two): to recognize text (tesseract) and binarize (leptonica).
 
 ## Support
-- Android 4.0 +
+- Android 5.0 +
